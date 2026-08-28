@@ -1,23 +1,23 @@
 [
     {
         "iconUrl": "https://top.xdmovies.wtf/favicon/favicon-96x96.png",
-        "fileHash": "sha256-c08332377af8a73c5b93fbe762891ce3b6dbb145ce9db74a58cf593eed694bf4",
+        "fileHash": "sha256-de84fe12d4df51393ff49955b1569a9a79118077568a4d115cd3271d547fbb5d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/kgicao29-ux/XDMovies",
-        "fileSize": 42927,
+        "fileSize": 115006,
         "status": 1,
         "language": "en",
         "authors": [
-            "kgicao29-ux",
             "phisher98"
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "Anime"
         ],
-        "version": 1,
+        "version": 12,
         "internalName": "XDMovies",
-        "description": "XDMovies (top.xdmovies.wtf) \u2014 HD movies & series downloads. HubCloud + multiple servers. Clean-room Kotlin rebuild based on phisher98's XDMovies v12.",
+        "description": "XDMovies (top.xdmovies.wtf) — HD movies & series. HubCloud + Cloudflare WebView bypass (original by phisher98).",
         "url": "https://raw.githubusercontent.com/kgicao29-ux/XDMovies/builds/XDMovies.cs3",
         "name": "XDMovies"
     }
