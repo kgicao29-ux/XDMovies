@@ -1,0 +1,8 @@
+{
+  "name": "XDMovies",
+  "description": "XDMovies (top.xdmovies.wtf) CloudStream extension — HD movies & series via HubCloud",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kgicao29-ux/XDMovies/builds/plugins.json"
+  ]
+}
